@@ -1,0 +1,1 @@
+This folder contains the supplementary material for the paper "Impulse noise removal by an adaptive trust-region method" submitted to SOCO.
